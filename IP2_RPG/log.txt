@@ -1,0 +1,99 @@
+There are total 1 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font:  with size 0
+loaded audio: êöäsuU
+loaded audio: ºäsuU
+loaded audio: ºäsuU
+Game initialized
+Menu scene created
+Game start event loop
+Key with keycode 67 down
+Walk scene created
+loaded image: Assets/room_sprite0.png
+loaded image: Assets/room_sprite1.png
+loaded image: Assets/room_sprite2.png
+loaded image: Assets/room_sprite3.png
+loaded image: Assets/room_sprite4.png
+loaded image: Assets/room_sprite5.png
+loaded image: Assets/room_sprite6.png
+loaded image: Assets/room_sprite7.png
+loaded image: Assets/turn_sprite00.png
+loaded image: Assets/turn_sprite01.png
+loaded image: Assets/turn_sprite02.png
+loaded image: Assets/turn_sprite10.png
+loaded image: Assets/turn_sprite11.png
+loaded image: Assets/turn_sprite12.png
+loaded image: Assets/turn_sprite20.png
+loaded image: Assets/turn_sprite21.png
+loaded image: Assets/turn_sprite22.png
+loaded image: Assets/turn_sprite30.png
+loaded image: Assets/turn_sprite31.png
+loaded image: Assets/turn_sprite32.png
+Key with keycode 6 down
+Fight scene created
+loaded image: Assets/player_icon.png
+loaded image: Assets/monster0.png
+monster generate successfully
+Walk scene created
+loaded image: Assets/room_sprite0.png
+loaded image: Assets/room_sprite1.png
+loaded image: Assets/room_sprite2.png
+loaded image: Assets/room_sprite3.png
+loaded image: Assets/room_sprite4.png
+loaded image: Assets/room_sprite5.png
+loaded image: Assets/room_sprite6.png
+loaded image: Assets/room_sprite7.png
+loaded image: Assets/turn_sprite00.png
+loaded image: Assets/turn_sprite01.png
+loaded image: Assets/turn_sprite02.png
+loaded image: Assets/turn_sprite10.png
+loaded image: Assets/turn_sprite11.png
+loaded image: Assets/turn_sprite12.png
+loaded image: Assets/turn_sprite20.png
+loaded image: Assets/turn_sprite21.png
+loaded image: Assets/turn_sprite22.png
+loaded image: Assets/turn_sprite30.png
+loaded image: Assets/turn_sprite31.png
+loaded image: Assets/turn_sprite32.png
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 23 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 6 down
+Fight scene created
+loaded image: Assets/player_icon.png
+loaded image: Assets/monster0.png
+monster generate successfully
+Walk scene created
+loaded image: Assets/room_sprite0.png
+loaded image: Assets/room_sprite1.png
+loaded image: Assets/room_sprite2.png
+loaded image: Assets/room_sprite3.png
+loaded image: Assets/room_sprite4.png
+loaded image: Assets/room_sprite5.png
+loaded image: Assets/room_sprite6.png
+loaded image: Assets/room_sprite7.png
+loaded image: Assets/turn_sprite00.png
+loaded image: Assets/turn_sprite01.png
+loaded image: Assets/turn_sprite02.png
+loaded image: Assets/turn_sprite10.png
+loaded image: Assets/turn_sprite11.png
+loaded image: Assets/turn_sprite12.png
+loaded image: Assets/turn_sprite20.png
+loaded image: Assets/turn_sprite21.png
+loaded image: Assets/turn_sprite22.png
+loaded image: Assets/turn_sprite30.png
+loaded image: Assets/turn_sprite31.png
+loaded image: Assets/turn_sprite32.png
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 1 down
+Window close button clicked
+Game end
