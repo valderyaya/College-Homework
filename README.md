@@ -1,3 +1,2 @@
-# IP2_RPG_GAME
+# College homework
 
-程式设计二final project
